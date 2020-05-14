@@ -1,0 +1,29 @@
+1File: Beta.ipnb
+Purpose: Self Explanatory 
+Output: Beta + SharpeRatio via: MarketVar, CovMarket
+
+2File: EfficientFrontierMarkowitz.ipynb
+Purpose: We obtain the efficient frontier
+This file showcases my ability to ""realistically" apply my finance knowledge in a program
+Output: At the bottom is a nice graph showing the efficient frontier
+
+3File: IndicesReturn.ipynb
+Purpose: Self Explanatory
+Output: Indices Returns, Compared to stocks, Normalized data
+
+4File: MultivariateRegression.ipynb
+Purpose: I use the same data as 5File and run a multivariate regression
+Output: Summary Statistics
+
+5File: Regression.ipynb
+Purpose: I run a simple regression using data from EXCEL
+The main point here is to show that I can work with many different data formats and run regression on them
+Output: Summary statistics + visuals
+
+6File: Risk_of_Security.ipynb
+Purpose: This file is various risk calculations 
+Output: Mean, Stdev, Var, Cov, Portfolio Risk, Diversifiable Risk
+
+7File: SimpleReturn.ipynb
+Purpose: To calculate simple portfolio return using data from Yahoo Finance
+Output: Two portfolio returns based on different weightings
